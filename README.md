@@ -40,7 +40,7 @@ NEXT_PUBLIC_API_BASE_URL=https://api.example.com
 
 Start the development server with Turbopack:
 ```bash
-    npm run dev
+  npm run dev
 ```
 Open http://localhost:3000 in your browser. Hot-reload will reflect changes instantly.
 
